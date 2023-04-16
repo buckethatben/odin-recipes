@@ -1,0 +1,38 @@
+.index,
+.heading,
+.recipes,
+.link {
+
+    background-color: #d3d3dd;
+    font-family: sans-serif, "Time New Roman";
+    color: black;
+    text-align: center;
+
+}
+
+.heading {
+
+    font-size: 60px;
+
+}
+
+.recipes {
+
+    font-size: 35px;
+    text-decoration: underline;
+
+}
+
+.link {
+
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.remy {
+
+    height: auto;
+    width: 1000px;
+
+}
